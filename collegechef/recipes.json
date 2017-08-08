@@ -11,7 +11,6 @@
 	"RecipeType": "Dinner",
 	"Cost": "$6",
 	"Servings": "2",
-	"Ingredients": [],
-	"Steps": []
-
+	"Ingredients": ["8 vegan meatballs", "1/4 cup marinara sauce","2 hoagie rolls, sliced in half lengthwise","1/4 cup grated vegan mozzarella","1/4 cup grated vegan mozzarella"],
+	"Steps": ["1. Preheat the broiler to low.", "2. Heat the meatballs and the sauce in the microwaveor on the stovetop until warm.", "3. Place four meatballs on each hoagie roll, top with half of the marinara and grated soy cheese, and place on an aluminum foil-lined baking sheet.", "4. Place under the broiler until the bread is toasted and the soy cheese has started to melt, about 3 minutes."]
 }
