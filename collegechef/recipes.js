@@ -51,7 +51,7 @@ var recipes = [
   "servings": "6",
   "ingredients": ["1 Tbsp. olive oil", "1 large onion, chopped", "2 cloves garlic, minced", "3/4 cup uncooked rice", "1-1/2 cups vegetable broth", "1 tsp. ground cumin", "1/4 tsp. cayenne pepper", "3-1/2 cups canned black beans, drained"],
   "steps": ["1. Heat your oil over medium heat.", "2. Add the onion and garlic and saute for 4 minutes.", "3. Add the rice and saute for another 2 minutes.", "4. Add in the vegetable broth, bring to a boil, lower the heat and cook for 20 minutes.", "5. Add the spices and black beans immediately before you serve."],
-}
+},
 {
 	"name": "Mug Macaroni and Cheese",
 	"type": "Lunch",
@@ -75,5 +75,21 @@ var recipes = [
 	"servings": "1",
 	"ingredients": ["1/2 tablespoon Earth Balance Original Buttery Spread", "1/2 cup chopped mixed vegetables", "1/2 tablespoon flour", "2 tablespoons skim milk", "2 tablespoons chicken stock", "1/2 cooked chicken breast, cut into small pieces", "3 spears cooked asparagus, cut into small pieces", "4 sheets filo", "Low-calorie cooking spray", "1 teaspoon chopped fresh parsley"],
 	"steps": ["1. Preheat the oven to 400°F.", "2. Microwave the margarine and mixed vegetables in a microwave- or oven-safe mug for 1 minute, or until the butter has melted.", "3. Add in the flour and stir until a paste has formed. Then stir in the skim milk and chicken stock.", "4. Add the chicken and asparagus to the mug and stir to combine. Season with salt and pepper.", "5. Cut out 4 squares of filo from 1 sheet, making sure each square is slightly larger then the top of the mug. Spray each square with cooking spray as you stack the sheets on top of the mug.", "6. Place the mug in the oven and bake for 10-15 minutes until the filo is flaky and golden in color.", "7. Sprinkle with parsley and serve immediately."],
+},
+{
+	"name": "Vegan Yogurt Parfait",
+  "type": "Breakfast",
+  "time": "15 minutes",
+  "servings": "2",
+  "ingredients": ["1 6- to 8-ounce container of vanilla, lemon, or piña colada nondairy yogurt (coconut or other)", "1 cup fresh fruit", "Grated semi-sweet chocolate, toasted sliced almonds, or granola for topping"],
+  "steps": ["1. Use a medium size tumbler or parfait cups and for each serving, layer 1/4 cup each of yogurt and fruit in the parfait dish.", "2. Repeat each layer, then do the same for the other parfaits.", "3. Sprinkle with the topping of choice, and serve."],
+},
+{
+  "name": "Classic BLT Sandwich",
+  "type": "Lunch",
+  "time": "5 minutes",
+  "servings": "1",
+  "ingredients": ["2 slices white sandwich bread, toasted", "1 teaspoon unsalted, room temperature butter", "1 to 2 romain or iceberg lettuce leaves", "1 vine ripened tomato, sliced 1/4 inch thick", "3 to 4 basil leaves", "2 slices thickly cut bacon, cooked", "1/2 cup Homemade Mayonnaise", "Coarse salt and freshly ground pepper"],
+  "steps": ["1. Spread one side of one slice of toast with butter.", "2. Arrange lettuce on top, along with tomato and basil. Season with salt and pepper.", "3. Top with bacon.", "4. Spread remaining slice of toast with mayonnaise; place mayonnaise side down to form a sandwich and cut on the diagonal. Serve immediately."],
 },
 ];
