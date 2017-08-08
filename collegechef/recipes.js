@@ -69,6 +69,21 @@ var recipes = [
 	"steps": ["1. Place a cup of rice in a large mug. Top with vegetables, enough to fill the mug to the top. Cover with microwave-safe plastic wrap. Puncture a few holes in the plastic wrap with a chopstick or a fork.", "2. Turn the power setting of your microwave to 8/10 and set timer to 1 minute.", "3. While rice is cooking, whisk 1 egg, 1 tablespoon tamari, 1/2 teaspoon sesame oil (if using), 1/2 teaspoon granulated garlic, 1/4 teaspoon five-spice powder, and a small pinch of salt together.", "4. Take the mug out of the microwave, remove plastic wrap, and pour in egg mixture. Use a fork or spoon to give everything a few stirs. Cover rice with plastic wrap again, and microwave rice at an 8/10 power setting for 1 minute 15 to 1 minute 30 seconds.", "5. Using a fork or a spoon, fluff up the rice by stirring the contents several times.", "6. Repeat steps 1 to 4 for the remaining ingredients. Enjoy!"],
 }
 {
-	
+	"name": "Vegan Green Smoothie",
+	"type": "Breakfast",
+	"time": "5 minutes",
+	"cost": "",
+	"servings": "2"
+	"ingredients": ["2 cups spinach", "2 cups water", "1 cup mango", "1 cup pineapple", "2 frozen bananas"]
+	"instructions": ["1. Tightly pack 2 cups of leafy greens in a measuring cup and then toss into blender.", "2. Add water and blend together until all leafy chunks are gone.", "3. Add mango, pineapple and bananas and blend again until smooth.", "4. Pour into a mason jar (or cute cup of your choice).", "5. Gulp or sip like a rawkstar!"]
+},
+{
+	"name": "Vegan Avocado Toast Recipe with Lemon and Chile",
+	"type": "Breakfast",
+	"time": "10 minutes",
+	"cost": "",
+	"servings": "2-4",
+	"ingredients": ["2 ripe avocados", "2 slices of toasted bread", "1 teaspoon grated lemon zest juice of 1 lemon olive oil, for drizzling", " sea salt and chile flakes for sprinkling"],
+	"instructions": ["1. Divide the avocado in half, remove the pit and carefully remove the skin.", "2. Slice the avocado into thin boats. ", "3. Divide the toast on a plate and spread the avocado, salt, chile, lemon zest, lemon juice, and drizzle a little oil over the top.", "4. Ready to serve!"],
 }
 ];
