@@ -59,7 +59,7 @@ var recipes = [
 	"servings": "1",
 	"ingredients": ["1/3 cup pasta", "3/4 cup cold water", "4 tablespoons milk", "1/4 teaspoons cornstarch", "4 tablespoons grated cheddar cheese", "salt", "pepper"],
 	"steps": ["1. In a large microwavable mug or large bowl add in the macaroni and the water. You need a large mug as the water will boil up.", "2. Microwave for roughly 3 ½ minutes. You want the pasta to be fully cooked.", "3. Pour off the remaining cooking water.", "4. Stir in the milk, cornstarch and shredded cheese and microwave for a final 60 seconds to create your sauce. Stir well, season with salt and pepper and enjoy."],
-}
+},
 {
 	"name": "Mug Egg Fried Rice (Gluten-Free)",
 	"type": "Lunch",
@@ -67,8 +67,13 @@ var recipes = [
 	"servings": "1",
 	"ingredients": ["2 cups cooked rice", "1 cup mixed vegetables", "2 large eggs", "2 tablespoons low-sodium tamari", "1 teaspoon sesame seed oil", "1 teaspoon granulated garlic", "1/2 teaspoon five-spice powder", "pinch of salt", "1 stalk of green onions", "sesame seeds for garnish"],
 	"steps": ["1. Place a cup of rice in a large mug. Top with vegetables, enough to fill the mug to the top. Cover with microwave-safe plastic wrap. Puncture a few holes in the plastic wrap with a chopstick or a fork.", "2. Turn the power setting of your microwave to 8/10 and set timer to 1 minute.", "3. While rice is cooking, whisk 1 egg, 1 tablespoon tamari, 1/2 teaspoon sesame oil (if using), 1/2 teaspoon granulated garlic, 1/4 teaspoon five-spice powder, and a small pinch of salt together.", "4. Take the mug out of the microwave, remove plastic wrap, and pour in egg mixture. Use a fork or spoon to give everything a few stirs. Cover rice with plastic wrap again, and microwave rice at an 8/10 power setting for 1 minute 15 to 1 minute 30 seconds.", "5. Using a fork or a spoon, fluff up the rice by stirring the contents several times.", "6. Repeat steps 1 to 4 for the remaining ingredients. Enjoy!"],
-}
+},
 {
-	
-}
+	"name": "Mug Chicken Pot Pie",
+	"type": "Lunch",
+	"time": "25 minutes",
+	"servings": "1",
+	"ingredients": ["1/2 tablespoon Earth Balance Original Buttery Spread", "1/2 cup chopped mixed vegetables", "1/2 tablespoon flour", "2 tablespoons skim milk", "2 tablespoons chicken stock", "1/2 cooked chicken breast, cut into small pieces", "3 spears cooked asparagus, cut into small pieces", "4 sheets filo", "Low-calorie cooking spray", "1 teaspoon chopped fresh parsley"],
+	"steps": ["1. Preheat the oven to 400°F.", "2. Microwave the margarine and mixed vegetables in a microwave- or oven-safe mug for 1 minute, or until the butter has melted.", "3. Add in the flour and stir until a paste has formed. Then stir in the skim milk and chicken stock.", "4. Add the chicken and asparagus to the mug and stir to combine. Season with salt and pepper.", "5. Cut out 4 squares of filo from 1 sheet, making sure each square is slightly larger then the top of the mug. Spray each square with cooking spray as you stack the sheets on top of the mug.", "6. Place the mug in the oven and bake for 10-15 minutes until the filo is flaky and golden in color.", "7. Sprinkle with parsley and serve immediately."],
+},
 ];
