@@ -142,5 +142,21 @@ var recipes = [
 	"type": "Breakfast",
 	"time": "5 minutes",
 	"ingredients": ["1 cup stale bread pieces*","1/4 cup pre-cooked chopped meat", "1/4 cup finely chopped vegetables", "2 Tbsp shredded cheese", "1 Tbsp butter", "3 Tbsp milk", "1 large egg", "Pinch of salt and pepper"],
-}
+	"steps": ["1. Tear or cut the bread into 1/2-inch pieces. Chop the meat and vegetables into small pieces. Shred the cheese.", "2. Add the butter to the bottom of a large mug (10-12oz.) and microwave on high for 20 seconds or until it is fully melted. Whisk in the milk, egg, salt, and pepper with a fork.", "3. Stir the meat, vegetables, and cheese into the milk and egg mixture first, then gently fold in the bread cubes until they are fully saturated.", "4. Let the mug sit for one minute to fully absorb the liquid, then microwave on high for about 90 seconds, or until the center is solid and it has begun to pull away from the mug around the edges. Serve hot."],
+},
+{
+    "name": "Vegan Hash Browns" ,
+    "type": "Breakfast",
+    "time": "30 minutes",
+    "cost": "$5",
+    "ingredients": ["1 large russet potatoes", "2 Tbsp cooking oil", "Seasoning salt to taste"],
+    "steps": ["1. Peel the potatoes, if desired. Use a large-holed cheese grater or food processor to shred the potatoes. Place the potatoes in a colander and rinse well, or until the water runs clear. Let the potatoes drain.", "2. Squeeze the potatoes of their excess water by pressing against the side of the colander or squeezing in your fist. Or, place the potatoes in a clean, lint-free dish towel, roll them up, then press to remove excess moisture.", "3. Heat a large cast iron or non-stick skillet over medium heat. Once hot, add a tablespoon of cooking oil and spread the oi, l over the surface. Add about 1/3 of the shredded potatoes. Let the potatoes fry, until deeply golden brown on the bottom (3-5 minutes). Season lightly with seasoning salt.","4. Flip the potatoes and drizzle additional oil if needed. Let the potatoes cook on the second side without disturbing until golden brown and crispy again. Season lightly.", "5. Cook until the ratio of brown and white is to your liking"],
+	},
+	{
+		"name": "Microvwave Mug Toast",
+		"type": "Breakfast",
+		"time": "5 minutes",
+		"cost": "$7",
+		"ingredients": ["1 tsp butter", "3 Tbsp whole milk", "1 tsp maple syrup", "1/4 tsp cinnamon", "1/4 tsp vanilla extract", "Pinch ground nutmeg"]
+	}
 ];
