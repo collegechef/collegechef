@@ -1,7 +1,7 @@
 var recipes = [
 {
 	"name": "Chicken Salad",
-	"keywords": ["chicken", "salad"],
+	"keywords": ["chicken", "salad", "lunch"],
 	"type": "Lunch",
 	"time": "10 minutes",
 	"servings": "2",
@@ -10,7 +10,7 @@ var recipes = [
 },
 {
 	"name": "Vegan Meatball Subs",
-	"keywords": ["vegan"],
+	"keywords": ["vegan", "meatballs", "subs", "dinner"],
 	"type": "Dinner",
 	"cost": "$6",
 	"servings": "2",
@@ -19,6 +19,7 @@ var recipes = [
 },
 {
 	"name": "Vegetarian Mug Spinach Ricotta Lasagna",
+	"keywords": ["vegetarian", "mug", "spinach", "cheese", "lasagna", "lunch"],
 	"type": "Lunch",
 	"time": "10 minutes",
 	"servings": "1",
@@ -27,6 +28,7 @@ var recipes = [
 },
 {
   "name": "Avocado Cream Pasta",
+	"keywords": ["avocado", "cream", "pasta", "dinner"],
   "type": "Dinner",
   "time": "15 minutes",
   "cost": "$5.60",
@@ -36,6 +38,7 @@ var recipes = [
 },
 {
   "name": "Sticky Rice",
+	"keywords": ["sticky", "rice", "dinner"],
   "type": "Dinner",
   "cost": "$4.17",
   "servings": "6",
@@ -44,6 +47,7 @@ var recipes = [
 },
 {
   "name": "Black Beans and Rice",
+	"keywords": ["beans", "rice", "dinner"],
   "type": "Dinner",
   "time": "30 minutes",
   "cost": "$4.79",
@@ -53,6 +57,7 @@ var recipes = [
 },
 {
 	"name": "Mug Macaroni and Cheese",
+	"keywords": ["mug", "macaroni", "cheese", "lunch"],
 	"type": "Lunch",
 	"time": "10 minutes",
 	"servings": "1",
@@ -61,6 +66,7 @@ var recipes = [
 },
 {
 	"name": "Mug Egg Fried Rice (Gluten-Free)",
+	"keywords": ["gluten free", "mug", "egg", "fried rice", "lunch"],
 	"type": "Lunch",
 	"time": "13 minutes",
 	"servings": "1",
@@ -69,6 +75,7 @@ var recipes = [
 },
 {
 	"name": "Vegan Green Smoothie",
+	"keywords": ["vegan", "smoothie", "breakfast"],
 	"type": "Breakfast",
 	"time": "5 minutes",
 	"servings": "2",
@@ -77,6 +84,7 @@ var recipes = [
 },
 {
 	"name": "Vegan Avocado Toast Recipe with Lemon and Chile",
+	"keywords": ["vegan", "avocado", "toast", "lemon", "chile", "breakfast"],
 	"type": "Breakfast",
 	"time": "10 minutes",
 	"servings": "2-4",
@@ -85,6 +93,7 @@ var recipes = [
 },
 {
 	"name": "Mug Chicken Pot Pie",
+	"keywords": ["mug", "chicken", "pot pie", "lunch"],
 	"type": "Lunch",
 	"time": "25 minutes",
 	"servings": "1",
@@ -93,6 +102,7 @@ var recipes = [
 },
 {
 	"name": "Vegan Yogurt Parfait",
+	"keywords":["vegan", "yogurt", "parfait", "breakfast"],
   "type": "Breakfast",
   "time": "15 minutes",
   "servings": "2",
@@ -101,6 +111,7 @@ var recipes = [
 },
 {
   "name": "Classic BLT Sandwich",
+	"keywords": ["BLT", "sandwhich", "lunch"],
   "type": "Lunch",
   "time": "5 minutes",
   "servings": "1",
@@ -108,15 +119,8 @@ var recipes = [
   "steps": ["1. Spread one side of one slice of toast with butter.", "2. Arrange lettuce on top, along with tomato and basil. Season with salt and pepper.", "3. Top with bacon.", "4. Spread remaining slice of toast with mayonnaise; place mayonnaise side down to form a sandwich and cut on the diagonal. Serve immediately."],
 },
 {
-	"name": "Vegetarian Mug Spinach Ricotta Lasagna",
-	 "type": "Lunch",
-	 "time": "10 minutes",
-	 "servings": "1",
-	 "ingredients": ["1/2 fresh lasagna sheet", "2 1/2 cups roughly chopped baby spinach", "1/4 diced medium yellow bell pepper", "1/4 cup part-skim ricotta cheese","3 large finely chopped basil leaves", "1/4 teaspoon kosher salt", "1/8 teaspoon granulated garlic", "6 tablespoons tomato or pasta sauce", "1/3 cup shredded part-skim mozzarella"],
-	 "steps": ["1. Cut the lasagna sheet in half, and cut each strip in half again. Place the pasta sheets into a bowl, and pour very hot water in it, until it covers all the pieces.", "2. Chop the spinach and place it in a microwave-safe bowl. Cover the top with plastic wrap and poke a few holes. Microwave for 1 minute and let it rest.", "3. Grate the mozzarella while you wait for the spinach to cool.", "4. Mix the spinach with the ricotta, pepper, granulated garlic, and salt. Set mixture aside.", "5. Pour 2 tablespoons of pasta sauce at the bottom of the mug. Top with a piece of softened pasta sheet. Add some spinach mixture, 2 tablespoons of mozzarella, and a pasta sheet. Continue building the lasagna, ending with a layer of pasta sheet at the top. Sprinkle mozzarella over the pasta.", "6. Microwave everything for 1 minute 30 seconds. Check to see that the mozzarella is melted. If it isn't, comtinue microwaving at 15-second intervals.", "7. Serve immediately."],
-},
-{
 	"name": "Mug Pizza",
+	"keywords": ["mug", "pizza", "lunch"],
 	"type": "Lunch",
 	"time": "6 minutes",
 	"servings": "1",
@@ -125,6 +129,7 @@ var recipes = [
 },
 {
 	"name": "Chicken Quesadillas",
+	"keywords": ["chicken", "quesadillas", "lunch"],
 	"type": "Lunch",
 	"time": "15 minutes",
 	"servings": "2",
@@ -133,6 +138,7 @@ var recipes = [
 },
 {
 	"name": "Vegan Sushi Bowl",
+	"keywords": ["vegan", "sushi", "lunch"],
 	"type": "Lunch",
 	"time": "15 minutes",
 	"servings": "2",
@@ -141,6 +147,7 @@ var recipes = [
 },
 {
 	"name": "Savory Microwave Breakfast Mug",
+	"keywords": ["savory", "microwave", "mug", "breakfast"],
 	"type": "Breakfast",
 	"time": "5 minutes",
 	"ingredients": ["1 cup stale bread pieces*","1/4 cup pre-cooked chopped meat", "1/4 cup finely chopped vegetables", "2 Tbsp shredded cheese", "1 Tbsp butter", "3 Tbsp milk", "1 large egg", "Pinch of salt and pepper"],
@@ -148,7 +155,7 @@ var recipes = [
 },
 {
     "name": "Vegan Hash Browns" ,
-		"keywords": ["vegan", "hash", "brown"],
+		"keywords": ["vegan", "hash", "brown", "breakfast"],
     "type": "Breakfast",
     "time": "30 minutes",
     "cost": "$5",
@@ -156,10 +163,16 @@ var recipes = [
     "steps": ["1. Peel the potatoes, if desired. Use a large-holed cheese grater or food processor to shred the potatoes. Place the potatoes in a colander and rinse well, or until the water runs clear. Let the potatoes drain.", "2. Squeeze the potatoes of their excess water by pressing against the side of the colander or squeezing in your fist. Or, place the potatoes in a clean, lint-free dish towel, roll them up, then press to remove excess moisture.", "3. Heat a large cast iron or non-stick skillet over medium heat. Once hot, add a tablespoon of cooking oil and spread the oi, l over the surface. Add about 1/3 of the shredded potatoes. Let the potatoes fry, until deeply golden brown on the bottom (3-5 minutes). Season lightly with seasoning salt.","4. Flip the potatoes and drizzle additional oil if needed. Let the potatoes cook on the second side without disturbing until golden brown and crispy again. Season lightly.", "5. Cook until the ratio of brown and white is to your liking"],
 	},
 	{
-		"name": "Microvwave Mug Toast",
+		"name": "Microwave Mug French Toast",
+		"keywords": ["microwave", "mug", "toast", "breakfast"],
 		"type": "Breakfast",
 		"time": "5 minutes",
 		"cost": "$7",
 		"ingredients": ["1 tsp butter", "3 Tbsp whole milk", "1 tsp maple syrup", "1/4 tsp cinnamon", "1/4 tsp vanilla extract", "Pinch ground nutmeg"]
+		"steps": ["1. Place the butter in a large mug and microwave for 15-20 seconds, or until it is melted. Add the milk, maple syrup, cinnamon, vanilla, nutmeg, and the egg to the mug and whisk until everything is well mixed.", "2. Add the bread pieces to the mug and gently stir until all the pieces are saturated with the egg and milk mixture. Be careful not to stir too roughly or the bread pieces may fall apart. Let the bread sit and absorb the liquid for about 1 minute.", "3. Microwave the mug for 60-90 seconds, or until the mixture is solid. I have a 1250 watt microwave and find that 70-80 seconds is about perfect. You may need to experiment to find just the right cooking time for your microwave and mug size.", "4. Serve immediately, or deck it out with your favorite toppings."],
+	}
+	{
+		"name": "Siracha Egg Salad",
+		"keywords": ["siracha", "egg", "salad", "breakfast"],
 	}
 ];
