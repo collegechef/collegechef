@@ -1,6 +1,7 @@
 var recipes = [
 {
 	"name": "Chicken Salad",
+	"keywords": ["chicken", "salad"],
 	"type": "Lunch",
 	"time": "10 minutes",
 	"servings": "2",
@@ -9,6 +10,7 @@ var recipes = [
 },
 {
 	"name": "Vegan Meatball Subs",
+	"keywords": ["vegan"],
 	"type": "Dinner",
 	"cost": "$6",
 	"servings": "2",
@@ -146,6 +148,7 @@ var recipes = [
 },
 {
     "name": "Vegan Hash Browns" ,
+		"keywords": ["vegan", "hash", "brown"],
     "type": "Breakfast",
     "time": "30 minutes",
     "cost": "$5",
