@@ -19,8 +19,8 @@ var recipes = [
 	"name": "Vegetarian Mug Spinach Ricotta Lasagna",
 	"type": "Lunch",
 	"time": "10 minutes",
-	"servings":"1"
-	"ingredients": ["1/2 fresh lasagna sheet", "2 1/2 cups roughly chopped baby spinach", "1/4 diced medium yellow bell pepper", "1/4 cup part-skim ricotta cheese","3 large finely chopped basil leaves", "1/4 teaspoon kosher salt", "1/8 teaspoon granulated garlic", "6 tablespoons tomato or pasta sauce", "1/3 cup shredded part-skim mozzarella"]
+	"servings": "1",
+	"ingredients": ["1/2 fresh lasagna sheet", "2 1/2 cups roughly chopped baby spinach", "1/4 diced medium yellow bell pepper", "1/4 cup part-skim ricotta cheese","3 large finely chopped basil leaves", "1/4 teaspoon kosher salt", "1/8 teaspoon granulated garlic", "6 tablespoons tomato or pasta sauce", "1/3 cup shredded part-skim mozzarella"],
 	"steps": ["1. Cut the lasagna sheet in half, and cut each strip in half again. Place the pasta sheets into a bowl, and pour very hot water in it, until it covers all the pieces.", "2. Chop the spinach and place it in a microwave-safe bowl. Cover the top with plastic wrap and poke a few holes. Microwave for 1 minute and let it rest.", "3. Grate the mozzarella while you wait for the spinach to cool.", "4. Mix the spinach with the ricotta, pepper, granulated garlic, and salt. Set mixture aside.", "5. Pour 2 tablespoons of pasta sauce at the bottom of the mug. Top with a piece of softened pasta sheet. Add some spinach mixture, 2 tablespoons of mozzarella, and a pasta sheet. Continue building the lasagna, ending with a layer of pasta sheet at the top. Sprinkle mozzarella over the pasta.", "6. Microwave everything for 1 minute 30 seconds. Check to see that the mozzarella is melted. If it isn't, comtinue microwaving at 15-second intervals.", "7. Serve immediately."],
 },
 {
@@ -110,7 +110,7 @@ var recipes = [
 	 "type": "Lunch",
 	 "time": "10 minutes",
 	 "servings": "1",
-	 "ingredients": ["1/2 fresh lasagna sheet", "2 1/2 cups roughly chopped baby spinach", "1/4 diced medium yellow bell pepper", "1/4 cup part-skim ricotta cheese","3 large finely chopped basil leaves", "1/4 teaspoon kosher salt", "1/8 teaspoon granulated garlic", "6 tablespoons tomato or pasta sauce", "1/3 cup shredded part-skim mozzarella"]
+	 "ingredients": ["1/2 fresh lasagna sheet", "2 1/2 cups roughly chopped baby spinach", "1/4 diced medium yellow bell pepper", "1/4 cup part-skim ricotta cheese","3 large finely chopped basil leaves", "1/4 teaspoon kosher salt", "1/8 teaspoon granulated garlic", "6 tablespoons tomato or pasta sauce", "1/3 cup shredded part-skim mozzarella"],
 	 "steps": ["1. Cut the lasagna sheet in half, and cut each strip in half again. Place the pasta sheets into a bowl, and pour very hot water in it, until it covers all the pieces.", "2. Chop the spinach and place it in a microwave-safe bowl. Cover the top with plastic wrap and poke a few holes. Microwave for 1 minute and let it rest.", "3. Grate the mozzarella while you wait for the spinach to cool.", "4. Mix the spinach with the ricotta, pepper, granulated garlic, and salt. Set mixture aside.", "5. Pour 2 tablespoons of pasta sauce at the bottom of the mug. Top with a piece of softened pasta sheet. Add some spinach mixture, 2 tablespoons of mozzarella, and a pasta sheet. Continue building the lasagna, ending with a layer of pasta sheet at the top. Sprinkle mozzarella over the pasta.", "6. Microwave everything for 1 minute 30 seconds. Check to see that the mozzarella is melted. If it isn't, comtinue microwaving at 15-second intervals.", "7. Serve immediately."],
 },
 {
@@ -137,6 +137,7 @@ var recipes = [
 	"ingredients": ["1 cup Sushi Rice (or other short-grain rice)", "1 cup water", "2 tablespoon Rice Wine Vinegar", "2 teaspoon natural cane sugar", "pinch salt", "1/2 cup each: Carrots, cucumber, avocado, and pepper", "soy sauce and toasted sesame seeds (optional)"],
 	"steps": ["1. Place rice and water in steamer and set to cook.", "2. While rice is cooking, whisk together vinegar, sugar and salt.", "3. Once rice is done, stir in vinegar mixture.", "4. You may serve this rice warm or cold, then top with veggies (you can also add soy sauce and tpasted sesame seeds on top!)"],
 },
+{
 	"name": "Savory Microwave Breakfast Mug",
 	"type": "Breakfast",
 	"time": "5 minutes",
