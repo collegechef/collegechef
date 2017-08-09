@@ -54,6 +54,18 @@ div.tab button.active {
 h3 {
     color: #4C8BB2;
 }
+
+#input {
+  background-image: url("searchicon.png");
+  background-position: 10px 12px;
+  background-repeat: no-repeat;
+  background-size: 20px 20px;
+  width: 50%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #DCE6ED;
+  margin-bottom: 12px;
+}
 </style>
 </head>
 <body>
@@ -73,6 +85,7 @@ h3 {
 <div id="Recipes" class="tabcontent">
   <h3>Recipes</h3>
   <p>Choose your favorite recipe!</p>
+  <input type="text" id="input" onkeyup="search()" placeholder="Search for recipes..." title="Type in a recipe keyword">
   <h1 id="testtitle"></h1>
 </div>
 
