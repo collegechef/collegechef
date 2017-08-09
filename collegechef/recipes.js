@@ -98,4 +98,36 @@ var recipes = [
   "ingredients": ["2 slices white sandwich bread, toasted", "1 teaspoon unsalted, room temperature butter", "1 to 2 romain or iceberg lettuce leaves", "1 vine ripened tomato, sliced 1/4 inch thick", "3 to 4 basil leaves", "2 slices thickly cut bacon, cooked", "1/2 cup Homemade Mayonnaise", "Coarse salt and freshly ground pepper"],
   "steps": ["1. Spread one side of one slice of toast with butter.", "2. Arrange lettuce on top, along with tomato and basil. Season with salt and pepper.", "3. Top with bacon.", "4. Spread remaining slice of toast with mayonnaise; place mayonnaise side down to form a sandwich and cut on the diagonal. Serve immediately."],
 },
+{
+	"name": "Vegetarian Mug Spinach Ricotta Lasagna",
+	 "type": "Lunch",
+	 "time": "10 minutes",
+	 "servings": "1",
+	 "ingredients": ["1/2 fresh lasagna sheet", "2 1/2 cups roughly chopped baby spinach", "1/4 diced medium yellow bell pepper", "1/4 cup part-skim ricotta cheese","3 large finely chopped basil leaves", "1/4 teaspoon kosher salt", "1/8 teaspoon granulated garlic", "6 tablespoons tomato or pasta sauce", "1/3 cup shredded part-skim mozzarella"]
+	 "steps": ["1. Cut the lasagna sheet in half, and cut each strip in half again. Place the pasta sheets into a bowl, and pour very hot water in it, until it covers all the pieces.", "2. Chop the spinach and place it in a microwave-safe bowl. Cover the top with plastic wrap and poke a few holes. Microwave for 1 minute and let it rest.", "3. Grate the mozzarella while you wait for the spinach to cool.", "4. Mix the spinach with the ricotta, pepper, granulated garlic, and salt. Set mixture aside.", "5. Pour 2 tablespoons of pasta sauce at the bottom of the mug. Top with a piece of softened pasta sheet. Add some spinach mixture, 2 tablespoons of mozzarella, and a pasta sheet. Continue building the lasagna, ending with a layer of pasta sheet at the top. Sprinkle mozzarella over the pasta.", "6. Microwave everything for 1 minute 30 seconds. Check to see that the mozzarella is melted. If it isn't, comtinue microwaving at 15-second intervals.", "7. Serve immediately."],
+},
+{
+	"name": "Mug Pizza",
+	"type": "Lunch",
+	"time": "6 minutes",
+	"servings": "1",
+	"ingredients": ["4 tablespoons all purpose flour", "⅛ teaspoon baking powder", "1/16 teaspoon baking soda", "⅛ teaspoon salt", "3 tablespoons milk", "1 tablespoon olive oil", "1 tablespoon marinara sauce", "1 generous tablespoon shredded mozzarella cheese", "5 mini pepperoni", "½ teaspoon dried Italian herbs (basil or oregano will work)"],
+	"steps": ["1. Mix the flour, baking powder, baking soda and salt together in a microwavable mug", "2. Add in the milk and oil with mix together. There might be some lump but that is ok", "3. Spoon on the marinara sauce and spread it around the surface of the batter", "4. Sprinkle on the cheese, pepperoni and dried herbs", "5. Microwave for 1 minute 10-20 seconds, or until it rises up and the topping are bubbling"],
+},
+{
+	"name": "Chicken Quesadillas",
+	"type": "Lunch",
+	"time": "15 minutes",
+	"servings": "2",
+	"ingredients": ["2 teaspoons canola oil, divided", "4, 10-inch flour tortillas", "2 cups shredded rotisserie chicken", "2 cups shredded cheddar cheese"],
+	"steps": ["1. Heat 1 tsp. of the oil in a large frying pan over medium heat", "2. While the pan is heating, assemble the quesadillas. Sprinkle 1/2 cup of chicken over half of each tortilla. Top with 1/2 cup of cheese. Fold in half.", "3. Place one quesadilla at a time in the skillet. Let it cook 2 minutes until golden brown on one side.", "4. Flip with tongs. Cook another 2 minutes until cheese is melted and the quesadilla is brown on the other side. Remove to a plate.", "5. Repeat with remaining quesadillas."],
+},
+{
+	"name": "Vegan Sushi Bowl",
+	"type": "Lunch",
+	"time": "15 minutes",
+	"servings": "2",
+	"ingredients": ["1 cup Sushi Rice (or other short-grain rice)", "1 cup water", "2 tablespoon Rice Wine Vinegar", "2 teaspoon natural cane sugar", "pinch salt", "1/2 cup each: Carrots, cucumber, avocado, and pepper", "soy sauce and toasted sesame seeds (optional)"],
+	"steps": ["1. Place rice and water in steamer and set to cook.", "2. While rice is cooking, whisk together vinegar, sugar and salt.", "3. Once rice is done, stir in vinegar mixture.", "4. You may serve this rice warm or cold, then top with veggies (you can also add soy sauce and tpasted sesame seeds on top!)"],
+},
 ];
