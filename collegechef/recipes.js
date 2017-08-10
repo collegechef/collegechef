@@ -2,7 +2,7 @@ var recipes = [
 {
 	"name": "Chicken Salad",
 	"keywords": ["chicken", "salad", "lunch"],
-	"type": "Lunch",
+	"category": "Lunch",
 	"time": "10 minutes",
 	"servings": "2",
 	"ingredients": ["1/2 cup mayo", "1 Tbsp lemon juice", "1/4 tsp ground black pepper", "2 cups chopped, cooked chicken", "1/2 cup blanched silvered almonds", "1 stalk celery, chopped"],
@@ -11,7 +11,7 @@ var recipes = [
 {
 	"name": "Vegan Meatball Subs",
 	"keywords": ["vegan", "meatballs", "subs", "dinner"],
-	"type": "Dinner",
+	"category": "Dinner",
 	"cost": "$6",
 	"servings": "2",
 	"ingredients": ["8 vegan meatballs", "1/4 cup marinara sauce", "2 hoagie rolls, sliced in half lengthwise", "1/4 cup grated vegan mozzarella"],
@@ -20,7 +20,7 @@ var recipes = [
 {
 	"name": "Vegetarian Mug Spinach Ricotta Lasagna",
 	"keywords": ["vegetarian", "mug", "spinach", "cheese", "lasagna", "lunch"],
-	"type": "Lunch",
+	"category": "Lunch",
 	"time": "10 minutes",
 	"servings": "1",
 	"ingredients": ["1/2 fresh lasagna sheet", "2 1/2 cups roughly chopped baby spinach", "1/4 diced medium yellow bell pepper", "1/4 cup part-skim ricotta cheese","3 large finely chopped basil leaves", "1/4 teaspoon kosher salt", "1/8 teaspoon granulated garlic", "6 tablespoons tomato or pasta sauce", "1/3 cup shredded part-skim mozzarella"],
@@ -29,7 +29,7 @@ var recipes = [
 {
   "name": "Avocado Cream Pasta",
 	"keywords": ["avocado", "cream", "pasta", "dinner"],
-  "type": "Dinner",
+  "category": "Dinner",
   "time": "15 minutes",
   "cost": "$5.60",
   "servings": "2-3",
@@ -39,7 +39,7 @@ var recipes = [
 {
   "name": "Sticky Rice",
 	"keywords": ["sticky", "rice", "dinner"],
-  "type": "Dinner",
+  "category": "Dinner",
   "cost": "$4.17",
   "servings": "6",
   "ingredients": ["2 cups of uncooked rice", "Canned or frozen vegetables", "Soy sauce, to taste"],
@@ -48,7 +48,7 @@ var recipes = [
 {
   "name": "Black Beans and Rice",
 	"keywords": ["beans", "rice", "dinner"],
-  "type": "Dinner",
+  "category": "Dinner",
   "time": "30 minutes",
   "cost": "$4.79",
   "servings": "6",
@@ -58,7 +58,7 @@ var recipes = [
 {
 	"name": "Mug Macaroni and Cheese",
 	"keywords": ["mug", "macaroni", "cheese", "lunch"],
-	"type": "Lunch",
+	"category": "Lunch",
 	"time": "10 minutes",
 	"servings": "1",
 	"ingredients": ["1/3 cup pasta", "3/4 cup cold water", "4 tablespoons milk", "1/4 teaspoons cornstarch", "4 tablespoons grated cheddar cheese", "salt", "pepper"],
@@ -67,7 +67,7 @@ var recipes = [
 {
 	"name": "Mug Egg Fried Rice (Gluten-Free)",
 	"keywords": ["gluten free", "mug", "egg", "fried rice", "lunch"],
-	"type": "Lunch",
+	"category": "Lunch",
 	"time": "13 minutes",
 	"servings": "1",
 	"ingredients": ["2 cups cooked rice", "1 cup mixed vegetables", "2 large eggs", "2 tablespoons low-sodium tamari", "1 teaspoon sesame seed oil", "1 teaspoon granulated garlic", "1/2 teaspoon five-spice powder", "pinch of salt", "1 stalk of green onions", "sesame seeds for garnish"],
@@ -76,7 +76,7 @@ var recipes = [
 {
 	"name": "Vegan Green Smoothie",
 	"keywords": ["vegan", "smoothie", "breakfast"],
-	"type": "Breakfast",
+	"category": "Breakfast",
 	"time": "5 minutes",
 	"servings": "2",
 	"ingredients": ["2 cups spinach", "2 cups water", "1 cup mango", "1 cup pineapple", "2 frozen bananas"],
@@ -85,7 +85,7 @@ var recipes = [
 {
 	"name": "Vegan Avocado Toast Recipe with Lemon and Chile",
 	"keywords": ["vegan", "avocado", "toast", "lemon", "chile", "breakfast"],
-	"type": "Breakfast",
+	"category": "Breakfast",
 	"time": "10 minutes",
 	"servings": "2-4",
 	"ingredients": ["2 ripe avocados", "2 slices of toasted bread", "1 teaspoon grated lemon zest juice of 1 lemon olive oil, for drizzling", " sea salt and chile flakes for sprinkling"],
@@ -94,7 +94,7 @@ var recipes = [
 {
 	"name": "Mug Chicken Pot Pie",
 	"keywords": ["mug", "chicken", "pot pie", "lunch"],
-	"type": "Lunch",
+	"category": "Lunch",
 	"time": "25 minutes",
 	"servings": "1",
 	"ingredients": ["1/2 tablespoon Earth Balance Original Buttery Spread", "1/2 cup chopped mixed vegetables", "1/2 tablespoon flour", "2 tablespoons skim milk", "2 tablespoons chicken stock", "1/2 cooked chicken breast, cut into small pieces", "3 spears cooked asparagus, cut into small pieces", "4 sheets filo", "Low-calorie cooking spray", "1 teaspoon chopped fresh parsley"],
@@ -103,7 +103,7 @@ var recipes = [
 {
 	"name": "Vegan Yogurt Parfait",
 	"keywords":["vegan", "yogurt", "parfait", "breakfast"],
-  "type": "Breakfast",
+  "category": "Breakfast",
   "time": "15 minutes",
   "servings": "2",
   "ingredients": ["1 6- to 8-ounce container of vanilla, lemon, or piña colada nondairy yogurt (coconut or other)", "1 cup fresh fruit", "Grated semi-sweet chocolate, toasted sliced almonds, or granola for topping"],
@@ -112,7 +112,7 @@ var recipes = [
 {
   "name": "Classic BLT Sandwich",
 	"keywords": ["BLT", "sandwhich", "lunch"],
-  "type": "Lunch",
+  "category": "Lunch",
   "time": "5 minutes",
   "servings": "1",
   "ingredients": ["2 slices white sandwich bread, toasted", "1 teaspoon unsalted, room temperature butter", "1 to 2 romain or iceberg lettuce leaves", "1 vine ripened tomato, sliced 1/4 inch thick", "3 to 4 basil leaves", "2 slices thickly cut bacon, cooked", "1/2 cup Homemade Mayonnaise", "Coarse salt and freshly ground pepper"],
@@ -121,7 +121,7 @@ var recipes = [
 {
 	"name": "Mug Pizza",
 	"keywords": ["mug", "pizza", "lunch"],
-	"type": "Lunch",
+	"category": "Lunch",
 	"time": "6 minutes",
 	"servings": "1",
 	"ingredients": ["4 tablespoons all purpose flour", "⅛ teaspoon baking powder", "1/16 teaspoon baking soda", "⅛ teaspoon salt", "3 tablespoons milk", "1 tablespoon olive oil", "1 tablespoon marinara sauce", "1 generous tablespoon shredded mozzarella cheese", "5 mini pepperoni", "½ teaspoon dried Italian herbs (basil or oregano will work)"],
@@ -130,7 +130,7 @@ var recipes = [
 {
 	"name": "Chicken Quesadillas",
 	"keywords": ["chicken", "quesadillas", "lunch"],
-	"type": "Lunch",
+	"category": "Lunch",
 	"time": "15 minutes",
 	"servings": "2",
 	"ingredients": ["2 teaspoons canola oil, divided", "4, 10-inch flour tortillas", "2 cups shredded rotisserie chicken", "2 cups shredded cheddar cheese"],
@@ -139,7 +139,7 @@ var recipes = [
 {
 	"name": "Vegan Sushi Bowl",
 	"keywords": ["vegan", "sushi", "lunch"],
-	"type": "Lunch",
+	"category": "Lunch",
 	"time": "15 minutes",
 	"servings": "2",
 	"ingredients": ["1 cup Sushi Rice (or other short-grain rice)", "1 cup water", "2 tablespoon Rice Wine Vinegar", "2 teaspoon natural cane sugar", "pinch salt", "1/2 cup each: Carrots, cucumber, avocado, and pepper", "soy sauce and toasted sesame seeds (optional)"],
@@ -148,7 +148,7 @@ var recipes = [
 {
 	"name": "Savory Microwave Breakfast Mug",
 	"keywords": ["savory", "microwave", "mug", "breakfast"],
-	"type": "Breakfast",
+	"category": "Breakfast",
 	"time": "5 minutes",
 	"ingredients": ["1 cup stale bread pieces*","1/4 cup pre-cooked chopped meat", "1/4 cup finely chopped vegetables", "2 Tbsp shredded cheese", "1 Tbsp butter", "3 Tbsp milk", "1 large egg", "Pinch of salt and pepper"],
 	"steps": ["1. Tear or cut the bread into 1/2-inch pieces. Chop the meat and vegetables into small pieces. Shred the cheese.", "2. Add the butter to the bottom of a large mug (10-12oz.) and microwave on high for 20 seconds or until it is fully melted. Whisk in the milk, egg, salt, and pepper with a fork.", "3. Stir the meat, vegetables, and cheese into the milk and egg mixture first, then gently fold in the bread cubes until they are fully saturated.", "4. Let the mug sit for one minute to fully absorb the liquid, then microwave on high for about 90 seconds, or until the center is solid and it has begun to pull away from the mug around the edges. Serve hot."],
@@ -156,7 +156,7 @@ var recipes = [
 {
     "name": "Vegan Hash Browns" ,
 		"keywords": ["vegan", "hash", "brown", "breakfast"],
-    "type": "Breakfast",
+    "category": "Breakfast",
     "time": "30 minutes",
     "cost": "$5",
     "ingredients": ["1 large russet potatoes", "2 Tbsp cooking oil", "Seasoning salt to taste"],
@@ -165,14 +165,14 @@ var recipes = [
 	{
 		"name": "Microwave Mug French Toast",
 		"keywords": ["microwave", "mug", "toast", "breakfast"],
-		"type": "Breakfast",
+		"category": "Breakfast",
 		"time": "5 minutes",
 		"cost": "$7",
 		"ingredients": ["1 tsp butter", "3 Tbsp whole milk", "1 tsp maple syrup", "1/4 tsp cinnamon", "1/4 tsp vanilla extract", "Pinch ground nutmeg"],
 		"steps": ["1. Place the butter in a large mug and microwave for 15-20 seconds, or until it is melted. Add the milk, maple syrup, cinnamon, vanilla, nutmeg, and the egg to the mug and whisk until everything is well mixed.", "2. Add the bread pieces to the mug and gently stir until all the pieces are saturated with the egg and milk mixture. Be careful not to stir too roughly or the bread pieces may fall apart. Let the bread sit and absorb the liquid for about 1 minute.", "3. Microwave the mug for 60-90 seconds, or until the mixture is solid. I have a 1250 watt microwave and find that 70-80 seconds is about perfect. You may need to experiment to find just the right cooking time for your microwave and mug size.", "4. Serve immediately, or deck it out with your favorite toppings."],
 	},
 	{
-		"name": "Siracha Egg Salad",
-		"keywords": ["siracha", "egg", "salad", "breakfast"],
+		"name": "Sriracha Egg Salad",
+		"keywords": ["sriracha", "egg", "salad", "breakfast"],
 	}
 ];
