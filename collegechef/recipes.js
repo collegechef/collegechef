@@ -2,7 +2,7 @@ var recipes = [
 {
 	"name": "Chicken Salad",
 	"htmlname": "chicken-salad",
-	"keywords": ["chicken", "salad", "lunch", "Chicken", "Salad", "Lunch", "all", "All"],
+	"keywords": ["chicken", "chicken salad", "salad", "lunch", "Chicken", "Salad", "Lunch", "all", "All"],
 	"category": "Lunch",
 	"time": "10 minutes",
 	"servings": "2",
