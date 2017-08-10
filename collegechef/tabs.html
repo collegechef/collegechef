@@ -129,7 +129,7 @@ h3 {
   <div class="dropdown">
     <button class="dropbtn">Recipe</button>
     <div class="dropdown-content">
-          <a href="breakfast.html">Breakfast</A>
+        <a href="breakfast.html">Breakfast</A>
         <a href="#">Lunch</a>
         <a href="#">Dinner</a>
     </div>
@@ -139,13 +139,9 @@ h3 {
   <button onclick="search()">Search</button>
   <h1 id="testtitle"></h1>
 
-  {% for recipe in results %}
-    <div>
-        <h3><a href="">{{ recipes.name }}</a></h3>
-        <p>{{ post.type|linebreaksbr }}</p>
-        <p>{{ post.time|linebreaksbr }}</p>
-    </div>
-  {% endfor %}
+
+  <div id = "results"></div>
+
 
 <div id="About" class="tabcontent">
   <h2>About Us</h2>
