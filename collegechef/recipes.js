@@ -168,9 +168,9 @@ var recipes = [
 		"type": "Breakfast",
 		"time": "5 minutes",
 		"cost": "$7",
-		"ingredients": ["1 tsp butter", "3 Tbsp whole milk", "1 tsp maple syrup", "1/4 tsp cinnamon", "1/4 tsp vanilla extract", "Pinch ground nutmeg"]
+		"ingredients": ["1 tsp butter", "3 Tbsp whole milk", "1 tsp maple syrup", "1/4 tsp cinnamon", "1/4 tsp vanilla extract", "Pinch ground nutmeg"],
 		"steps": ["1. Place the butter in a large mug and microwave for 15-20 seconds, or until it is melted. Add the milk, maple syrup, cinnamon, vanilla, nutmeg, and the egg to the mug and whisk until everything is well mixed.", "2. Add the bread pieces to the mug and gently stir until all the pieces are saturated with the egg and milk mixture. Be careful not to stir too roughly or the bread pieces may fall apart. Let the bread sit and absorb the liquid for about 1 minute.", "3. Microwave the mug for 60-90 seconds, or until the mixture is solid. I have a 1250 watt microwave and find that 70-80 seconds is about perfect. You may need to experiment to find just the right cooking time for your microwave and mug size.", "4. Serve immediately, or deck it out with your favorite toppings."],
-	}
+	},
 	{
 		"name": "Siracha Egg Salad",
 		"keywords": ["siracha", "egg", "salad", "breakfast"],
