@@ -192,6 +192,12 @@ var recipes = [
 	},
 	{
 		"name": "Sriracha Egg Salad",
+		"htmlname": "sriracha-egg-salad",
 		"keywords": ["sriracha", "egg", "salad", "breakfast", "all", "All", "Breakfast", "Sriracha", "Egg", "Salad"],
+		"category": "Dinner",
+		"time": "30 minutes",
+		"cost": "$10",
+		"ingredients": ["8 large eggs", "1/2 cup mayonnaise", "2 Tbsp sriracha", "1/4 tsp salt", "1/2 tsp lemon juice", "Freshly cracked pepper", "2 green onions"],
+		"instructions":
 	}
 ];
