@@ -1,7 +1,8 @@
 var recipes = [
 {
 	"name": "Chicken Salad",
-	"keywords": ["chicken", "salad", "lunch"],
+	"htmlname": "chicken-salad",
+	"keywords": ["chicken", "salad", "lunch", "Chicken", "Salad", "Lunch", "all", "All"],
 	"category": "Lunch",
 	"time": "10 minutes",
 	"servings": "2",
@@ -10,7 +11,8 @@ var recipes = [
 },
 {
 	"name": "Vegan Meatball Subs",
-	"keywords": ["vegan", "meatballs", "subs", "dinner"],
+	"htmlname": "vegan-meatball-subs",
+	"keywords": ["vegan", "meatballs", "subs", "dinner", "Vegan", "Meatball", "Subs", "Dinner", "all", "All"],
 	"category": "Dinner",
 	"cost": "$6",
 	"servings": "2",
@@ -19,7 +21,8 @@ var recipes = [
 },
 {
 	"name": "Vegetarian Mug Spinach Ricotta Lasagna",
-	"keywords": ["vegetarian", "mug", "spinach", "cheese", "lasagna", "lunch"],
+	"htmlname": "vegetarian-mug-spinach-ricotta-lasagna",
+	"keywords": ["vegetarian", "mug", "spinach", "cheese", "lasagna", "lunch", "Vegetarian", "Mug", "Spinach", "Cheese", "Lasagna", "Lunch", "all", "All"],
 	"category": "Lunch",
 	"time": "10 minutes",
 	"servings": "1",
@@ -28,7 +31,8 @@ var recipes = [
 },
 {
   "name": "Avocado Cream Pasta",
-	"keywords": ["avocado", "cream", "pasta", "dinner"],
+	"htmlname": "avocado-cream-pasta",
+	"keywords": ["avocado", "cream", "pasta", "dinner", "Avocado", "Cream", "Pasta", "Dinner", "all", "All"],
   "category": "Dinner",
   "time": "15 minutes",
   "cost": "$5.60",
@@ -38,7 +42,8 @@ var recipes = [
 },
 {
   "name": "Sticky Rice",
-	"keywords": ["sticky", "rice", "dinner"],
+	"htmlname": "sticky-rice",
+	"keywords": ["sticky", "rice", "dinner", "Sticky", "Rice", "Dinner", "all", "All"],
   "category": "Dinner",
   "cost": "$4.17",
   "servings": "6",
@@ -47,7 +52,8 @@ var recipes = [
 },
 {
   "name": "Black Beans and Rice",
-	"keywords": ["beans", "rice", "dinner"],
+	"htmlname": "black-beans-and-rice",
+	"keywords": ["beans", "rice", "dinner", "black", "Black", "Beans", "Rice", "Dinner", "all", "All"],
   "category": "Dinner",
   "time": "30 minutes",
   "cost": "$4.79",
@@ -57,7 +63,8 @@ var recipes = [
 },
 {
 	"name": "Mug Macaroni and Cheese",
-	"keywords": ["mug", "macaroni", "cheese", "lunch"],
+	"htmlname": "mug-macaroni-and-cheese",
+	"keywords": ["mug", "macaroni", "cheese", "lunch", "Mug", "Macaroni", "Cheese", "Lunch", "All", "all"],
 	"category": "Lunch",
 	"time": "10 minutes",
 	"servings": "1",
@@ -66,7 +73,8 @@ var recipes = [
 },
 {
 	"name": "Mug Egg Fried Rice (Gluten-Free)",
-	"keywords": ["gluten free", "mug", "egg", "fried rice", "lunch"],
+	"htmlname": "mug-egg-fried-rice-gluten-free",
+	"keywords": ["gluten free", "gluten", "free", "fried", "rice", "mug", "egg", "fried rice", "lunch", "Mug", "Egg", "Fried", "Rice", "Gluten", "Free", "Lunch", "All", "all"],
 	"category": "Lunch",
 	"time": "13 minutes",
 	"servings": "1",
@@ -75,7 +83,8 @@ var recipes = [
 },
 {
 	"name": "Vegan Green Smoothie",
-	"keywords": ["vegan", "smoothie", "breakfast"],
+	"htmlname": "vegan-green-smoothie",
+	"keywords": ["vegan", "smoothie", "breakfast", "Vegan", "Green", "green", "Smoothie", "Breakfast", "all", "All"],
 	"category": "Breakfast",
 	"time": "5 minutes",
 	"servings": "2",
@@ -84,7 +93,8 @@ var recipes = [
 },
 {
 	"name": "Vegan Avocado Toast Recipe with Lemon and Chile",
-	"keywords": ["vegan", "avocado", "toast", "lemon", "chile", "breakfast"],
+	"htmlname": "vegan-avocado-toast-recipe-with-lemon-and-chile",
+	"keywords": ["vegan", "avocado", "toast", "lemon", "chile", "breakfast", "Vegan", "Avocado", "Toast", "Lemon", "Chile", "Breakfast", "all", "All"],
 	"category": "Breakfast",
 	"time": "10 minutes",
 	"servings": "2-4",
@@ -93,7 +103,8 @@ var recipes = [
 },
 {
 	"name": "Mug Chicken Pot Pie",
-	"keywords": ["mug", "chicken", "pot pie", "lunch"],
+	"htmlname": "mug-chicken-pot-pie",
+	"keywords": ["mug", "chicken", "pot pie", "lunch", "pot", "pie", "Pot", "Pie", "Mug", "Chicken", "Lunch", "all", "All"],
 	"category": "Lunch",
 	"time": "25 minutes",
 	"servings": "1",
@@ -102,7 +113,8 @@ var recipes = [
 },
 {
 	"name": "Vegan Yogurt Parfait",
-	"keywords":["vegan", "yogurt", "parfait", "breakfast"],
+	"htmlname": "vegan-yogurt-parfait",
+	"keywords":["vegan", "yogurt", "parfait", "breakfast", "Vegan", "Yogurt", "Parfait", "Breakfast", "all", "All"],
   "category": "Breakfast",
   "time": "15 minutes",
   "servings": "2",
@@ -111,7 +123,8 @@ var recipes = [
 },
 {
   "name": "Classic BLT Sandwich",
-	"keywords": ["BLT", "sandwhich", "lunch"],
+	"htmlname": "classic-blt-sandwich",
+	"keywords": ["BLT", "Blt", "blt", "sandwich", "lunch", "classic", "Classic", "Sandwich", "Lunch", "all", "All"],
   "category": "Lunch",
   "time": "5 minutes",
   "servings": "1",
@@ -120,7 +133,8 @@ var recipes = [
 },
 {
 	"name": "Mug Pizza",
-	"keywords": ["mug", "pizza", "lunch"],
+	"htmlname": "mug-pizza",
+	"keywords": ["mug", "pizza", "lunch", "Mug", "Pizza", "Lunch", "all", "All"],
 	"category": "Lunch",
 	"time": "6 minutes",
 	"servings": "1",
@@ -129,7 +143,8 @@ var recipes = [
 },
 {
 	"name": "Chicken Quesadillas",
-	"keywords": ["chicken", "quesadillas", "lunch"],
+	"htmlname": "chicken-quesadillas",
+	"keywords": ["chicken", "quesadillas", "lunch", "Chicken", "Quesadillas", "Lunch", "all", "All"],
 	"category": "Lunch",
 	"time": "15 minutes",
 	"servings": "2",
@@ -138,7 +153,8 @@ var recipes = [
 },
 {
 	"name": "Vegan Sushi Bowl",
-	"keywords": ["vegan", "sushi", "lunch"],
+	"htmlname": "vegan-sushi-bowl",
+	"keywords": ["vegan", "sushi", "lunch", "Vegan", "Sushi", "Bowl", "bowl", "All", "all"],
 	"category": "Lunch",
 	"time": "15 minutes",
 	"servings": "2",
@@ -147,7 +163,8 @@ var recipes = [
 },
 {
 	"name": "Savory Microwave Breakfast Mug",
-	"keywords": ["savory", "microwave", "mug", "breakfast"],
+	"htmlname": "savory-microwave-breakfast-mug",
+	"keywords": ["savory", "microwave", "mug", "breakfast", "Savory", "Microwave", "Mug", "Breakfast", "All", "all"],
 	"category": "Breakfast",
 	"time": "5 minutes",
 	"ingredients": ["1 cup stale bread pieces*","1/4 cup pre-cooked chopped meat", "1/4 cup finely chopped vegetables", "2 Tbsp shredded cheese", "1 Tbsp butter", "3 Tbsp milk", "1 large egg", "Pinch of salt and pepper"],
@@ -155,7 +172,8 @@ var recipes = [
 },
 {
     "name": "Vegan Hash Browns" ,
-		"keywords": ["vegan", "hash", "brown", "breakfast"],
+		"html": "vegan-hash-browns",
+		"keywords": ["vegan", "hash", "brown", "browns", "Vegan", "Hash", "Browns", "Brown", "All", "all", "breakfast", "Breakfast"],
     "category": "Breakfast",
     "time": "30 minutes",
     "cost": "$5",
@@ -164,7 +182,8 @@ var recipes = [
 	},
 	{
 		"name": "Microwave Mug French Toast",
-		"keywords": ["microwave", "mug", "toast", "breakfast"],
+		"htmlname": "microwave-mug-french-toast",
+		"keywords": ["microwave", "all", "All", "mug", "toast", "Microwave", "Mug", "Toast", "breakfast", "Breakfast"],
 		"category": "Breakfast",
 		"time": "5 minutes",
 		"cost": "$7",
@@ -173,6 +192,6 @@ var recipes = [
 	},
 	{
 		"name": "Sriracha Egg Salad",
-		"keywords": ["sriracha", "egg", "salad", "breakfast"],
+		"keywords": ["sriracha", "egg", "salad", "breakfast", "all", "All", "Breakfast", "Sriracha", "Egg", "Salad"],
 	}
 ];
