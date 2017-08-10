@@ -6,14 +6,12 @@
   * {box-sizing:border-box}
   body {font-family: Verdana,sans-serif;}
   .mySlides {display:none}
-
   /* Slideshow container */
   .slideshow-container {
     max-width: 1000px;
     position: relative;
     margin: auto;
   }
-
   /* Caption text */
   .text {
     color: #f2f2f2;
@@ -24,7 +22,6 @@
     width: 100%;
     text-align: center;
   }
-
   /* Number text (1/3 etc) */
   .numbertext {
     color: #f2f2f2;
@@ -33,7 +30,6 @@
     position: absolute;
     top: 0;
   }
-
   /* The dots/bullets/indicators */
   .dot {
     height: 13px;
@@ -44,11 +40,9 @@
     display: inline-block;
     transition: background-color 0.6s ease;
   }
-
   .active {
     background-color: #717171;
   }
-
   /* Fading animation */
   .fade {
     -webkit-animation-name: fade;
@@ -56,17 +50,14 @@
     animation-name: fade;
     animation-duration: 1.5s;
   }
-
   @-webkit-keyframes fade {
     from {opacity: .4}
     to {opacity: 1}
   }
-
   @keyframes fade {
     from {opacity: .4}
     to {opacity: 1}
   }
-
   /* On smaller screens, decrease text size */
   @media only screen and (max-width: 300px) {
     .text {font-size: 11px}
@@ -105,7 +96,6 @@
   <script>
   var slideIndex = 0;
   showSlides();
-
   function showSlides() {
       var i;
       var slides = document.getElementsByClassName("mySlides");
@@ -135,7 +125,6 @@ body {
     font-family: "Lato", sans-serif;
     background-color: #95C0D7;
 }
-
 /* Style the tab */
 div.tab {
     overflow: hidden;
@@ -143,7 +132,6 @@ div.tab {
     background-color: #D6C7B5;
     color: #291A34;
 }
-
 /* Style the buttons inside the tab */
 div.tab button {
     background-color: #D6C7B5;
@@ -155,7 +143,6 @@ div.tab button {
     transition: 0.3s;
     font-size: 17px;
 }
-
 .tabspan{
     display:inline:block;
     width:10ex;
@@ -164,12 +151,10 @@ div.tab button {
 div.tab button:hover {
     background-color: #c0b3a2;
 }
-
 /* Create an active/current tablink class */
 div.tab button.active {
     background-color: #D6C7B5;
 }
-
 /* Style the tab content */
 .tabcontent {
     display: none;
@@ -179,11 +164,9 @@ div.tab button.active {
     color: #DCE6ED;
     background-color: #15496C;
 }
-
 h3 {
     color: #4C8BB2;
 }
-
 #input {
   background-image: url("searchicon.png");
   background-position: 10px 12px;
@@ -203,12 +186,10 @@ h3 {
     border: none;
     cursor: pointer;
 }
-
 .dropdown {
     position: relative;
     display: inline-block;
 }
-
 .dropdown-content {
     display: none;
     position: absolute;
@@ -217,20 +198,16 @@ h3 {
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
 }
-
 .dropdown-content a {
     color: black;
     padding: 12px 16px;
     text-decoration: none;
     display: block;
 }
-
 .dropdown-content a:hover {background-color: #f1f1f1}
-
 .dropdown:hover .dropdown-content {
     display: block;
 }
-
 .dropdown:hover .dropbtn {
     background-color: #3e8e41;
 }
@@ -242,7 +219,7 @@ h3 {
 
 <div class="tab">
   <button class="tablinks" onclick="CollegeChef(event, 'Recipes')">Recipes</button>
-  <button class="tablinks" onclick="CollegeChef(event, 'About')">About</button>
+  <button class="tablinks" onclick="CollegeChef(event, 'About')">About Us</button>
   <button class="tablinks" onclick="CollegeChef(event, 'ContactUs')">Contact Us</button>
 </div>
 
