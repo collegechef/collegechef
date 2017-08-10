@@ -218,9 +218,15 @@ h3 {
 <img src="logo.png"  alt="CollegeChef" align="middle" style="width:400px;height:100px;">
 
 <div class="tab">
+  <button class="tablinks" onclick="CollegeChef(event, 'Home')">Home</button>
   <button class="tablinks" onclick="CollegeChef(event, 'Recipes')">Recipes</button>
-  <button class="tablinks" onclick="CollegeChef(event, 'AboutUs')">About Us</button>
-  <button class="tablinks" onclick="CollegeChef(event, 'ContactUs')">Contact Us</button>
+  <button class="tablinks" onclick="CollegeChef(event, 'About')">About Us</button>
+  <button class="tablinks" onclick="CollegeChef(event, 'Contact')">Contact Us</button>
+</div>
+
+<div id="Home"class="tabcontent">
+  <h2>Homepage</h2>
+  <p>Add pictures</p>
 </div>
 
 <div id="Recipes" class="tabcontent">
@@ -239,25 +245,12 @@ h3 {
   <button onclick="search()">Search</button>
   <h1 id="testtitle"></h1>
 
-  {% for recipe in results %}
-    <div>
-        <h3><a href="">{{ recipes.name }}</a></h3>
-        <p>{{ post.type|linebreaksbr }}</p>
-        <p>{{ post.time|linebreaksbr }}</p>
-    </div>
-  {% endfor %}
-
-<div id="AboutUs" class="tabcontent">
+<div id="About" class="tabcontent">
   <h2>About Us</h2>
-  <h3>We are the founders of College Chef!</h3>
-  <p><strong>Kimi:</strong> Write about yourself</p>
-  <p><strong>Swetha:</strong> Write about yourself</p>
-  <p><strong>Angelina:</strong> Write about yourself</p>
-  <h3>Mission Statement</h3>
-  <p>Our mission at College Chef is to provide quick and affordable recipes that meet every college students nutrtional needs.</p>
+  <p>We are the founders of College Chef!</p>
 </div>
 
-<div id="ContactUs"class="tabcontent">
+<div id="Contact" class="tabcontent">
   <h2>Contact Us</h2>
   <p>Here is our contact info!</p>
 </div>
