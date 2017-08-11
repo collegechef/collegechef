@@ -198,6 +198,6 @@ var recipes = [
 		"time": "30 minutes",
 		"cost": "$10",
 		"ingredients": ["8 large eggs", "1/2 cup mayonnaise", "2 Tbsp sriracha", "1/4 tsp salt", "1/2 tsp lemon juice", "Freshly cracked pepper", "2 green onions"],
-		"instructions":
-	}
+		"instructions": [],
+	},
 ];
