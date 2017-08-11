@@ -138,7 +138,7 @@ var recipes = [
   "time": "5 minutes",
 	"cost": "$9",
   "servings": "1",
-  "ingredients": ["2 slices white sandwich bread, toasted", "1 teaspoon unsalted, room temperature butter", "1 to 2 romain or iceberg lettuce leaves", "1 vine ripened tomato, sliced 1/4 inch thick", "3 to 4 basil leaves", "2 slices thickly cut bacon, cooked", "1/2 cup Homemade Mayonnaise", "Coarse salt and freshly ground pepper"],
+  "ingredients": ["2 slices white sandwich bread, toasted", "1 teaspoon unsalted, room temperature butter", "1 to 2 romain or iceberg lettuce leaves", "1 vine ripened tomato, sliced 1/4 inch thick", "3 to 4 basil leaves", "2 slices thickly cut bacon, cooked", "1/2 cup Mayonnaise", "Coarse salt and freshly ground pepper"],
   "steps": ["1. Spread one side of one slice of toast with butter.", "2. Arrange lettuce on top, along with tomato and basil. Season with salt and pepper.", "3. Top with bacon.", "4. Spread remaining slice of toast with mayonnaise; place mayonnaise side down to form a sandwich and cut on the diagonal. Serve immediately."],
 },
 {
