@@ -217,7 +217,7 @@ var recipes = [
 	{
 		"name": "Lighter Spinach Alfredo Pasta",
 		"htmlname": "lighter-spinach-alfredo-pasta",
-		"keywords": ["spinach", "Spinach", "alfredo", "Alfredo", "pasta", "Pasta"],
+		"keywords": ["spinach", "Spinach", "alfredo", "Alfredo", "pasta", "Pasta", "dinner", "Dinner", "all", "All"],
 		"type": "Dinner",
 		"time": "25 minutes",
 		"cost": "$15",
