@@ -9,5 +9,10 @@ function search(input) {
       }
     }
   }
+  if (x === ""){
+    document.getElementById("testtitle").innerHTML = "sorry, no results. try another keyword!";
+  }
+  else {
   document.getElementById("testtitle").innerHTML = x;
+  }
 };
