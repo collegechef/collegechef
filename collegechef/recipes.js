@@ -171,7 +171,7 @@ var recipes = [
 	"time": "15 minutes",
 	"cost": "$13",
 	"servings": "2",
-	"ingredients": ["1 cup Sushi Rice (or other short-grain rice)", "1 cup water", "2 tablespoon Rice Wine Vinegar", "2 teaspoon natural cane sugar", "pinch salt", "1/2 cup each: Carrots, cucumber, avocado, and pepper", "soy sauce and toasted sesame seeds (optional)"],
+	"ingredients": ["1 cup Sushi Rice (or other short-grain rice)", "1 cup water", "2 tablespoon Rice Wine Vinegar", "2 teaspoon natural cane sugar", "pinch of salt", "1/2 cup each: Carrots, cucumber, avocado, and pepper", "soy sauce and toasted sesame seeds (optional)"],
 	"steps": ["1. Place rice and water in steamer and set to cook.", "2. While rice is cooking, whisk together vinegar, sugar and salt.", "3. Once rice is done, stir in vinegar mixture.", "4. You may serve this rice warm or cold, then top with veggies (you can also add soy sauce and tpasted sesame seeds on top!)"],
 },
 {
@@ -181,7 +181,8 @@ var recipes = [
 	"category": "Breakfast",
 	"time": "5 minutes",
 	"cost": "$11",
-	"ingredients": ["1 cup stale bread pieces*","1/4 cup pre-cooked chopped meat", "1/4 cup finely chopped vegetables", "2 Tbsp shredded cheese", "1 Tbsp butter", "3 Tbsp milk", "1 large egg", "Pinch of salt and pepper"],
+	"servings": "1",
+	"ingredients": ["1 cup stale bread pieces","1/4 cup pre-cooked chopped meat", "1/4 cup finely chopped vegetables", "2 Tbsp shredded cheese", "1 Tbsp butter", "3 Tbsp milk", "1 large egg", "Pinch of salt and pepper"],
 	"steps": ["1. Tear or cut the bread into 1/2-inch pieces. Chop the meat and vegetables into small pieces. Shred the cheese.", "2. Add the butter to the bottom of a large mug (10-12oz.) and microwave on high for 20 seconds or until it is fully melted. Whisk in the milk, egg, salt, and pepper with a fork.", "3. Stir the meat, vegetables, and cheese into the milk and egg mixture first, then gently fold in the bread cubes until they are fully saturated.", "4. Let the mug sit for one minute to fully absorb the liquid, then microwave on high for about 90 seconds, or until the center is solid and it has begun to pull away from the mug around the edges. Serve hot."],
 },
 {
