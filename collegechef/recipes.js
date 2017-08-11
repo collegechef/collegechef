@@ -45,6 +45,7 @@ var recipes = [
 	"htmlname": "sticky-rice",
 	"keywords": ["sticky", "rice", "dinner", "Sticky", "Rice", "Dinner", "all", "All"],
   "category": "Dinner",
+	"time": "30 minutes",
   "cost": "$4.17",
   "servings": "6",
   "ingredients": ["2 cups of uncooked rice", "Canned or frozen vegetables", "Soy sauce, to taste"],
@@ -198,6 +199,18 @@ var recipes = [
 		"time": "30 minutes",
 		"cost": "$10",
 		"ingredients": ["8 large eggs", "1/2 cup mayonnaise", "2 Tbsp sriracha", "1/4 tsp salt", "1/2 tsp lemon juice", "Freshly cracked pepper", "2 green onions"],
-		"instructions": [],
+<<<<<<< HEAD
+		"instructions": ["1.Place the eggs in a large sauce pot and add enough water to cover them by one inch. Place a lid on the pot and bring to a boil over high heat. Once it reaches a full rolling boil, turn off the heat and let it sit with the lid in place for 15 minutes. After 15 minutes transfer the eggs to an ice water bath to stop the cooking process. Let the eggs sit in the ice water for 5-10 minutes before peeling.", "2. While the eggs are cooking, prepare the dressing. Combine the mayonnaise, sriracha, salt, lemon juice, and some freshly cracked pepper in a bowl.", "3. Finally, slice the green onions and peel the eggs. Coarsely chop the eggs, place them in a large bowl with the sliced green onions, and pour the dressing over top. Stir to combine, then serve or refrigerate until ready to serve."],
+	},
+	{
+		"name": "Lighter Spinach Alfredo Pasta",
+		"htmlname": "lighter-spinach-alfredo-pasta",
+		"keywords": ["spinach", "Spinach", "alfredo", "Alfredo", "pasta", "Pasta"],
+		"type": "Dinner",
+		"time": "25 minutes",
+		"cost": "$15",
+		"servings": "2",
+		"ingredients": ["6 oz penne pasta", "1 tbsp butter", "1 cloves garlic, minced", "1 cups whole milk", "3 oz. cream cheese", "0.4 cup grated Parmesan", "0.15 tsp salt", "Freshly cracked pepper", "2 cups baby spinach"],
+		"steps": ["1. Bring a large pot of water to cook the pasta. Once boiling, add the pasta and cook until al dente. Drain the pasta in a colander.", "2. While the pasta is cooking, prepare the sauce. Add the butter and minced garlic to a deep skillet and sauté over medium heat for 1-2 minutes, or until the garlic is soft and fragrant, but not brown.", "3. Turn the heat down to medium-low. Add the milk to the skillet along with the cream cheese. Heat the milk and cream cheese while whisking, until the cream cheese has fully melted into the milk.", "4. Whisk in the grated Parmesan cheese and continue to whisk as the sauce comes up to a gentle simmer. When it reaches a simmer, the sauce will thicken. Turn the heat down to low. Season the sauce with 1/4 tsp salt and a generous amount of freshly cracked pepper.", "Add the fresh spinach to the sauce and stir it in until it has wilted and become limp.", "6. Finally, add the cooked pasta to the spinach alfredo sauce and stir to combine."],
 	},
 ];
