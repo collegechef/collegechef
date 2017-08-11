@@ -1,4 +1,3 @@
-
 function search(input) {
   var x="";
   var input = document.getElementById("input");
