@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> f408e5cdb029554cbf70fd3f4edbe19a858daea8
 function search(input) {
   var x="";
   var input = document.getElementById("input");
