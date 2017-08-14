@@ -228,4 +228,15 @@ var recipes = [
 		"ingredients": ["6 oz penne pasta", "1 tbsp butter", "1 cloves garlic, minced", "1 cups whole milk", "3 oz. cream cheese", "0.4 cup grated Parmesan", "0.15 tsp salt", "Freshly cracked pepper", "2 cups baby spinach"],
 		"steps": ["1. Bring a large pot of water to cook the pasta. Once boiling, add the pasta and cook until al dente. Drain the pasta in a colander.", "2. While the pasta is cooking, prepare the sauce. Add the butter and minced garlic to a deep skillet and sauté over medium heat for 1-2 minutes, or until the garlic is soft and fragrant, but not brown.", "3. Turn the heat down to medium-low. Add the milk to the skillet along with the cream cheese. Heat the milk and cream cheese while whisking, until the cream cheese has fully melted into the milk.", "4. Whisk in the grated Parmesan cheese and continue to whisk as the sauce comes up to a gentle simmer. When it reaches a simmer, the sauce will thicken. Turn the heat down to low. Season the sauce with 1/4 tsp salt and a generous amount of freshly cracked pepper.", "Add the fresh spinach to the sauce and stir it in until it has wilted and become limp.", "6. Finally, add the cooked pasta to the spinach alfredo sauce and stir to combine."],
 	},
+	{
+		"name": "Monterrey Chicken Skillet",
+		"htmlname": "monterrey-chicken-skillet",
+		"keywords": ["monterrey", "Monterrey", "chicken", "Chicken", "skillet", "Skillet", "dinner", "Dinner", "all", "All"],
+		"type": "Dinner",
+		"time": "25 minutes",
+		"cost": "$12",
+		"servings": "2-4",
+		"ingredients":["2 cups shredded pre-cooked chicken (1/2 rotisserie chicken)", "1 10 oz. can Rotel (diced tomatoes with green chiles)", "1/2 lb. fusili pasta", "2 cups chicken broth", "1/3 cup BBQ sauce", "1 cup shredded Monterrey Jack cheese", "3 slices bacon", "2 green onions, sliced"],
+		"steps": ["1. Place the chicken, pasta, and Rotel tomatoes in a large skillet. Add two cups of chicken broth and stir to combine. Cover the skillet with a tight fitting lid, turn the heat on to high, and let it boil. Once it boils, reduce the heat to low and let it simmer for 15 minutes, stirring every 5 minutes.", "2. Meanwhile, cook the bacon in a skillet until brown and crispy. Drain the cooked bacon on a paper towel, then crumble into pieces.", "3. After simmering for 15 minutes, the pasta should be tender. If the pasta is still firm, let the skillet simmer for 5 more minutes. If the pasta is tender, with a lot of liquid in the skillet, let it simmer without a lid for 5 more minutes.", "4. Once the pasta is cooked, drizzle the BBQ sauce over top. Sprinkle the shredded cheese over the BBQ sauce and cover the skillet with the lid. Leave the heat on low and let the skillet sit for five minutes to melt the cheese. Then,top with the crumbled bacon and sliced green onions, then serve."],
+	},
 ];
