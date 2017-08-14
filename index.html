@@ -1,70 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-body {
-    font-family: "Lato", sans-serif;
-    background-color: #95C0D7 ;
-}
-/* Style the tab */
-div.tab {
-    overflow: hidden;
-    border: 1px solid #c0b3a2 ;
-    background-color: #D6C7B5 ;
-    color: #291A34 ;
-}
-/* Style the buttons inside the tab */
-div.tab button {
-    background-color: #D6C7B5 ;
-    float: left;
-    border: #958b7e ;
-    outline: none;
-    cursor: pointer;
-    padding: 14px 100px;
-    transition: 0.3s;
-    font-size: 17px;
-}
-.img-circle {
-  border-radius: 50%;
-}
-.tabspan{
-    display:inline:block;
-    width:10ex;
-}
-/* Change background color of buttons on hover */
-div.tab button:hover {
-    background-color: #c0b3a2 ;
-}
-/* Create an active/current tablink class */
-div.tab button.active {
-    background-color: #D6C7B5 ;
-}
-/* Style the tab content */
-.tabcontent {
-    display: none;
-    padding: 6px 12px;
-    border: 1px solid #c0b3a2 ;
-    border-top: none;
-    color: #DCE6ED ;
-    background-color: #15496C ;
-}
-h3 {
-    color: #4C8BB2 ;
-}
-#input {
-  background-image: url("searchicon.png");
-  background-position: 10px 12px;
-  background-repeat: no-repeat;
-  background-size: 20px 20px;
-  width: 50%;
-  font-size: 16px;
-  padding: 12px 20px 12px 40px;
-  border: 1px solid #DCE6ED ;
-  margin-bottom: 12px;
-}
-</style>
+<link rel = "stylesheet" type = "text/css" href = "index.css" />
 </head>
-<body onload="CollegeChef(event, 'Home')">
+<body onload="CollegeChef(event, 'Home'); initialize()">
 
 
 <img src="logofinal.jpg"  alt="CollegeChef" style="width:600px;height:200px;" align="center">
@@ -196,42 +135,33 @@ h3 {
     </body>
 </div>
 
-<div onload="search('all')" id="Recipes" class="tabcontent">
+<div onload="initialize()" id="Recipes" class="tabcontent">
   <h2>Recipes</h2>
   <p>Choose your favorite recipe!</p>
 
  <input type="text" id="input" placeholder="Search for one key term, no spaces ;)" title="Type in a recipe keyword">
   <button onclick="search()">Search</button>
   <p>suggested key terms: "vegan", "mug", etc...</p>
-  <h1 id="testtitle" onload="search('all')"></h1>
+  <h1 id="testtitle" onload="initialize()"></h1>
 
  <div id = "results"></div>
 </div>
 
 <div id="About" class="tabcontent">
   <h2>About Us</h2>
-<<<<<<< HEAD
-  <p>We are the founders of College Chef!</p>
-   <img src="swetha1.png" class="img-circle" alt="Swetha" width="304" height="400" align="left">
-   <p align="right">Swetha</p>
-   <br>
-   <br>
-   <img class="img-circle" src="kimi.jpg" alt="Kimi" width="324" height="243" align="left">
-   <p align="right">Kimi</p>
-   <br>
-   <br>
-   <img class="img-circle" src="angelina.jpg" alt="Angelina" width="481" height="641" align="left">
-   <p align"right">Angelina</p>
-=======
   <h3>Meet the founders of College Chef!</h3>
-   <img src="swetha1.png" class="img-circle" alt="Swetha" width="304" height="400"><br><p>Hi, I'm Swetha!</p>
-   <br>
-   <img class="img-circle" src="kimi.jpg" alt="Kimi" width="424" height="343">
-   <p>Hi, I'm Kimi!</p>
-   <br>
-   <img class="img-circle" src="angelina.jpg" alt="Angelina" width="381" height="541">
-   <p>Hi, I'm Angelina!</p>
->>>>>>> 03aa920a6611625c841883c2bc74f8b7249d9a3b
+  <table>
+    <tr>
+      <td><img src="swetha1.png" class="img-circle" alt="Swetha" width="304" height="400"></td>
+      <td style="padding-left: 20px;"><p>Hi, I'm Swetha!</p><td>
+    </tr>
+    <tr>
+      <td><img class="img-circle" src="kimi.jpg" alt="Kimi" width="424" height="343"></td>
+      <td style="padding-left: 20px;"><p>Hi, I'm Kimi!</p><td>
+    <tr>
+      <td><img class="img-circle" src="angelina.jpg" alt="Angelina" width="381" height="541"></td>
+      <td style-"padding-left: 20px;"><p>Hi, I'm Angelina!</p></td>
+    </tr>
 </div>
 
 <div id="How-Tos" class="tabcontent">
@@ -243,7 +173,6 @@ h3 {
   <iframe width="560" height="315" src="https://www.youtube.com/embed/gvBjK9Q5Sg4" frameborder="0" allowfullscreen></iframe>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/Jf75I9LKhvg" frameborder="0" allowfullscreen></iframe>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/UYhKDweME3A" frameborder="0" allowfullscreen></iframe>
-
 
 </div>
 
