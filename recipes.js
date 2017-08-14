@@ -187,7 +187,7 @@ var recipes = [
 },
 {
     "name": "Vegan Hash Browns" ,
-		"html": "vegan-hash-browns",
+		"htmlname": "vegan-hash-browns",
 		"keywords": ["vegan", "hash", "brown", "browns", "Vegan", "Hash", "Browns", "Brown", "All", "all", "breakfast", "Breakfast"],
     "category": "Breakfast",
     "time": "30 minutes",
@@ -220,7 +220,7 @@ var recipes = [
 	{
 		"name": "Lighter Spinach Alfredo Pasta",
 		"htmlname": "lighter-spinach-alfredo-pasta",
-		"keywords": ["spinach", "Spinach", "alfredo", "Alfredo", "pasta", "Pasta", "dinner", "Dinner", "all", "All"],
+		"keywords": ["lighter", "Lighter", "spinach", "Spinach", "alfredo", "Alfredo", "pasta", "Pasta", "dinner", "Dinner", "all", "All"],
 		"type": "Dinner",
 		"time": "25 minutes",
 		"cost": "$15",
@@ -234,7 +234,7 @@ var recipes = [
 		"keywords": ["monterrey", "Monterrey", "chicken", "Chicken", "skillet", "Skillet", "dinner", "Dinner", "all", "All"],
 		"type": "Dinner",
 		"time": "25 minutes",
-		"cost": "$12",
+		"cost": "$8.11",
 		"servings": "2-4",
 		"ingredients":["2 cups shredded pre-cooked chicken (1/2 rotisserie chicken)", "1 10 oz. can Rotel (diced tomatoes with green chiles)", "1/2 lb. fusili pasta", "2 cups chicken broth", "1/3 cup BBQ sauce", "1 cup shredded Monterrey Jack cheese", "3 slices bacon", "2 green onions, sliced"],
 		"steps": ["1. Place the chicken, pasta, and Rotel tomatoes in a large skillet. Add two cups of chicken broth and stir to combine. Cover the skillet with a tight fitting lid, turn the heat on to high, and let it boil. Once it boils, reduce the heat to low and let it simmer for 15 minutes, stirring every 5 minutes.", "2. Meanwhile, cook the bacon in a skillet until brown and crispy. Drain the cooked bacon on a paper towel, then crumble into pieces.", "3. After simmering for 15 minutes, the pasta should be tender. If the pasta is still firm, let the skillet simmer for 5 more minutes. If the pasta is tender, with a lot of liquid in the skillet, let it simmer without a lid for 5 more minutes.", "4. Once the pasta is cooked, drizzle the BBQ sauce over top. Sprinkle the shredded cheese over the BBQ sauce and cover the skillet with the lid. Leave the heat on low and let the skillet sit for five minutes to melt the cheese. Then,top with the crumbled bacon and sliced green onions, then serve."],
