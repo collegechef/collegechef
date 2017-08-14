@@ -1,7 +1,8 @@
 body {
-  font-family: "Lato", sans-serif;
+  font-family: "Trebuchet MS";
   background-color: #95C0D7;
+  text-align: center;
 }
-h1 {
-  
+hr {
+  width: 50%;
 }
