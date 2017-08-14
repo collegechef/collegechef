@@ -239,4 +239,15 @@ var recipes = [
 		"ingredients":["2 cups shredded pre-cooked chicken (1/2 rotisserie chicken)", "1 10 oz. can Rotel (diced tomatoes with green chiles)", "1/2 lb. fusili pasta", "2 cups chicken broth", "1/3 cup BBQ sauce", "1 cup shredded Monterrey Jack cheese", "3 slices bacon", "2 green onions, sliced"],
 		"steps": ["1. Place the chicken, pasta, and Rotel tomatoes in a large skillet. Add two cups of chicken broth and stir to combine. Cover the skillet with a tight fitting lid, turn the heat on to high, and let it boil. Once it boils, reduce the heat to low and let it simmer for 15 minutes, stirring every 5 minutes.", "2. Meanwhile, cook the bacon in a skillet until brown and crispy. Drain the cooked bacon on a paper towel, then crumble into pieces.", "3. After simmering for 15 minutes, the pasta should be tender. If the pasta is still firm, let the skillet simmer for 5 more minutes. If the pasta is tender, with a lot of liquid in the skillet, let it simmer without a lid for 5 more minutes.", "4. Once the pasta is cooked, drizzle the BBQ sauce over top. Sprinkle the shredded cheese over the BBQ sauce and cover the skillet with the lid. Leave the heat on low and let the skillet sit for five minutes to melt the cheese. Then,top with the crumbled bacon and sliced green onions, then serve."],
 	},
+	{
+		"name": "Cheesecake Brownie Bites",
+		"htmlname": "cheesecake-brownie-bites",
+		"keywords": ["cheesecake", "brownie", "Cheesecake", "Brownie", "Dessert", "dessert", "sweet", "Sweet"],
+		"type": "Dessert",
+		"time": "27 minutes",
+		"cost": "$15.00",
+		"servings": "2-4",
+		"ingredients": ["2 large eggs", "3/4 cup baking cocoa", "1/2 teaspoon salt", "1/2 teaspoon baking powder", "1/2 tablespoon instant espresso powder", "1 teaspoon water", "1 teaspoon vanilla extract", "1 and 1/2 cup sugar", "1/2 cup unsalted butter, melted", "3/4 cup all purpose flour","For Cheesecake Filling:", "1/2 8 ounce package cream cheese, softened", "1 and 1/2 tablespoons sugar", "1/2 large egg yolk"],
+		"steps": ["1. Preheat the oven to 350ºF.", "2. In a large bowl, whisk together the eggs, baking cocoa, salt, baking powder, espresso mixed with water, and vanilla until well combined.", "3. Stir in the sugar and melted butter until well combined, then stir in the flour. (A firm rubber spatula works best.) Set brownie batter aside.", "4. In a separate bowl, prepare the cheesecake filling by stirring together the cream cheese, sugar and egg yolk until well combined. Transfer the mixture to a pastry bag or plastic bag.", "5. Grease a non-stick mini-muffin pan with cooking spray or butter and then spoon a tablespoon of brownie batter into the greased cups. Pipe a generous amount of cheesecake filling atop the brownie batter, and then top off each cup with an additional teaspoon of brownie batter.", "6. Bake for about 12 minutes, or until a toothpick inserted comes out clean.", "7. Let brownie cool for about 10 minutes"],
+	},
 ];
