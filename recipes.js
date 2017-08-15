@@ -242,7 +242,7 @@ var recipes = [
 	{
 		"name": "Cheesecake Brownie Bites",
 		"htmlname": "cheesecake-brownie-bites",
-		"keywords": ["cheesecake", "brownie", "Cheesecake", "Brownie", "Dessert", "dessert", "sweet", "Sweet"],
+		"keywords": ["cheesecake", "brownie", "Cheesecake", "Brownie", "Dessert", "dessert", "sweet", "Sweet", "all", "All"],
 		"type": "Dessert",
 		"time": "27 minutes",
 		"cost": "$15.00",
