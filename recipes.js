@@ -6,7 +6,7 @@ var recipes = [
 	"category": "Lunch",
 	"time": "10 minutes",
 	"cost": "$12",
-	"servings": "2",
+	"servings": "4",
 	"ingredients": ["1/2 cup mayo", "1 Tbsp lemon juice", "1/4 tsp ground black pepper", "2 cups chopped, cooked chicken", "1/2 cup blanched silvered almonds", "1 stalk celery, chopped"],
 	"steps": ["1. Prep all of the salad ingredients and toss them together in a large bowl.", "2. Prepare the chicken salad dressing in a separate smaller bowl.", "3. Mix together the mayonnaise, preserves, and lemon juice.", "4. Taste for the proper balance of sweetness and acidity. The salad dressing should not be too sweet nor too sour. Add more preserves or lemon juice until you have reached the balance you want. Add salt and pepper to taste.", "5. Gently stir the dressing in with the chicken salad ingredients. Taste and add more salt and pepper if needed."],
 },
