@@ -17,6 +17,9 @@ function search(input) {
   }
 };
 
+function hidemessage() {
+  document.getElementById("loadingpage").style.visibility="hidden";
+};
 function initialize()  {
   var x="";
   var input = "all";
